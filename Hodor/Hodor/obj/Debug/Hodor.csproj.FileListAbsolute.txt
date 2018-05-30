@@ -1,0 +1,5 @@
+C:\Users\nandw\Desktop\Hodor\Hodor\bin\Debug\Hodor.exe
+C:\Users\nandw\Desktop\Hodor\Hodor\bin\Debug\Hodor.pdb
+C:\Users\nandw\Desktop\Hodor\Hodor\obj\Debug\Hodor.csprojResolveAssemblyReference.cache
+C:\Users\nandw\Desktop\Hodor\Hodor\obj\Debug\Hodor.exe
+C:\Users\nandw\Desktop\Hodor\Hodor\obj\Debug\Hodor.pdb
